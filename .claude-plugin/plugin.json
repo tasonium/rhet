@@ -1,0 +1,4 @@
+{
+  "name": "rhet",
+  "description": "Claude writes replies in rhet (RST notation) and you see them rendered as Markdown"
+}
